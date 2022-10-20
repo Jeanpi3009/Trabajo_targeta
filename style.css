@@ -78,7 +78,7 @@ body {
 
 .info-card > h2 {
   font-size: 1.5rem;
-  color: #020d15;
+  color: #ffffff;
 }
 
 .info-card .expirate{
@@ -98,10 +98,6 @@ body {
   flex-direction: column;
   align-items: flex-end;
   justify-content: flex-end;
-}
-
-.color{
-  color:#ffff;
 }
 
 p{

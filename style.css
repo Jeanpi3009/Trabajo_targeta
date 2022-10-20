@@ -99,3 +99,7 @@ body {
   align-items: flex-end;
   justify-content: flex-end;
 }
+
+h2 > p{
+  color:#ffff;
+}
